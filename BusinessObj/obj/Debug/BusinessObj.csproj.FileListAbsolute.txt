@@ -1,0 +1,6 @@
+C:\Users\Singhals\source\repos\BusinessObj\bin\Debug\BusinessObj.dll
+C:\Users\Singhals\source\repos\BusinessObj\bin\Debug\BusinessObj.pdb
+C:\Users\Singhals\source\repos\BusinessObj\obj\Debug\BusinessObj.csproj.AssemblyReference.cache
+C:\Users\Singhals\source\repos\BusinessObj\obj\Debug\BusinessObj.csproj.CoreCompileInputs.cache
+C:\Users\Singhals\source\repos\BusinessObj\obj\Debug\BusinessObj.dll
+C:\Users\Singhals\source\repos\BusinessObj\obj\Debug\BusinessObj.pdb
